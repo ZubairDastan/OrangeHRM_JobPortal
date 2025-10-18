@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smart People HRM Test Suite" thread-count="1" parallel="none">
+    <test name="Login Test">
+        <classes>
+            <class name="testrunner.LoginTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="Recruitment Test">
+        <classes>
+            <class name="testrunner.RecruitmentTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
