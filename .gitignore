@@ -1,0 +1,11 @@
+.gradle
+.idea
+/src/test/resources/screenshots/
+build
+gradle
+/gradlew
+/gradlew.bat
+/build/
+/out/
+/allure-results/
+settings.gradle
